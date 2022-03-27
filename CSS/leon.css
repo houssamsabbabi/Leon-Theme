@@ -432,7 +432,7 @@ body {
 }
 @media (max-width:768px){
     .contact-details .container .contact p {
-        font-size: 60px; 
+        font-size: 25px; 
     }
 }
 .contact-details .container .email p {
@@ -444,7 +444,7 @@ body {
 }
 @media (max-width:768px){
     contact-details .container .email p {
-        font-size: 60px; 
+        font-size: 25px; 
     }
 }
 .contact-details .container .social-media :nth-child(2),
