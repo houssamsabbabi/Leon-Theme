@@ -1,4 +1,11 @@
-# Leon-Theme
-# Project Name : Leon 
-# Technologies used : HTML and CSS 
-# Description: We built this project as copy of leon theme for practicing all the knowledges we get in the above technologies. 
+# Project Name
+- Leon-Theme
+## Description 
+- This project created as clone of Leon Theme, it created for showing the knowledge I got until now, this project is responsive width all medium and small screens.
+### Technologies used
+- HTML
+- CSS 
+### Additional Tools
+- Google Fonts
+- Normalize CSS file
+- Fontawsome (for Icons)
